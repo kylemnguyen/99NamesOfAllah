@@ -1,0 +1,10 @@
+{
+    "name": "99 Names of Allah",
+    "description": "99 Names with translation",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+      "default_popup": "main.html",
+      "default_icon": "icon.png"
+    }
+  }
